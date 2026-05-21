@@ -37,6 +37,9 @@
         <mxCell id="pQ5zxMxzYYfldC0HST0u-7" value="警情判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1390" y="-2740" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="pQ5zxMxzYYfldC0HST0u-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pQ5zxMxzYYfldC0HST0u-8" target="pQ5zxMxzYYfldC0HST0u-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pQ5zxMxzYYfldC0HST0u-8" value="排除警情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1410" y="-2600" width="120" height="60" as="geometry" />
         </mxCell>
