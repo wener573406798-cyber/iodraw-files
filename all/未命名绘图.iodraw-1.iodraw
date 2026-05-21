@@ -46,7 +46,7 @@
         <mxCell id="pQ5zxMxzYYfldC0HST0u-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pQ5zxMxzYYfldC0HST0u-9" target="pQ5zxMxzYYfldC0HST0u-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pQ5zxMxzYYfldC0HST0u-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pQ5zxMxzYYfldC0HST0u-9" target="pQ5zxMxzYYfldC0HST0u-5">
+        <mxCell id="pQ5zxMxzYYfldC0HST0u-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="pQ5zxMxzYYfldC0HST0u-9" target="pQ5zxMxzYYfldC0HST0u-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1020" y="-2770" />
@@ -65,12 +65,6 @@
         </mxCell>
         <mxCell id="pQ5zxMxzYYfldC0HST0u-20" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1360" y="-2650" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pQ5zxMxzYYfldC0HST0u-22" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1390" y="-2700" as="sourcePoint" />
-            <mxPoint x="-1340" y="-2750" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
