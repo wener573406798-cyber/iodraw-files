@@ -16,17 +16,29 @@
         <mxCell id="pQ5zxMxzYYfldC0HST0u-4" value="监测任务启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1920" y="-2730" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pQ5zxMxzYYfldC0HST0u-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pQ5zxMxzYYfldC0HST0u-5" target="pQ5zxMxzYYfldC0HST0u-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pQ5zxMxzYYfldC0HST0u-5" value="警源解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1580" y="-2730" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pQ5zxMxzYYfldC0HST0u-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pQ5zxMxzYYfldC0HST0u-6" target="pQ5zxMxzYYfldC0HST0u-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pQ5zxMxzYYfldC0HST0u-6" value="警情发布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1250" y="-2730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ5zxMxzYYfldC0HST0u-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pQ5zxMxzYYfldC0HST0u-7" target="pQ5zxMxzYYfldC0HST0u-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pQ5zxMxzYYfldC0HST0u-7" value="警情判断" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1390" y="-2740" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pQ5zxMxzYYfldC0HST0u-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1410" y="-2610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pQ5zxMxzYYfldC0HST0u-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pQ5zxMxzYYfldC0HST0u-9" target="pQ5zxMxzYYfldC0HST0u-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pQ5zxMxzYYfldC0HST0u-9" value="防控响应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1080" y="-2730" width="120" height="60" as="geometry" />
