@@ -723,6 +723,9 @@
         <mxCell id="BciIWcjvtq5aNHy6hDo7-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="644" y="2624" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BciIWcjvtq5aNHy6hDo7-3" value="诱因输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="153" y="2405" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
