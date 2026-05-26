@@ -729,6 +729,9 @@
         <mxCell id="BciIWcjvtq5aNHy6hDo7-3" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;诱因输入&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="176" y="2402" width="106" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="BciIWcjvtq5aNHy6hDo7-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1039" y="2391" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
