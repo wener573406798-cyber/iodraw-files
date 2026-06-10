@@ -412,7 +412,7 @@
         <mxCell id="XbQVD_GEqfwizwg-tP9j-178" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="373.5" y="2071" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XbQVD_GEqfwizwg-tP9j-179" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="XbQVD_GEqfwizwg-tP9j-179" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#cb2525;" vertex="1" parent="1">
           <mxGeometry x="190" y="2168" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XbQVD_GEqfwizwg-tP9j-180" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
