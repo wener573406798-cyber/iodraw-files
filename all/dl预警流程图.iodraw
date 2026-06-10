@@ -828,17 +828,6 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="Background" id="XbQVD_GEqfwizwg-tP9j-22">
-          <mxCell style="vsdxID=158;edgeStyle=none;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeWidth=2;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="XbQVD_GEqfwizwg-tP9j-64" target="XbQVD_GEqfwizwg-tP9j-66" parent="1">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint y="20" as="offset" />
-              <Array as="points">
-                <mxPoint x="1315" y="2273.5" />
-                <mxPoint x="1315" y="2273.5" />
-              </Array>
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
         <UserObject label="" tags="Background" id="XbQVD_GEqfwizwg-tP9j-23">
           <mxCell style="vsdxID=161;edgeStyle=none;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeWidth=2;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="XbQVD_GEqfwizwg-tP9j-74" target="XbQVD_GEqfwizwg-tP9j-84" parent="1">
             <mxGeometry relative="1" as="geometry">
@@ -846,17 +835,6 @@
               <Array as="points">
                 <mxPoint x="1055.93" y="2662" />
                 <mxPoint x="1055.93" y="2662" />
-              </Array>
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
-        <UserObject label="" tags="Background" id="XbQVD_GEqfwizwg-tP9j-24">
-          <mxCell style="vsdxID=164;edgeStyle=none;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeWidth=2;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="XbQVD_GEqfwizwg-tP9j-62" target="XbQVD_GEqfwizwg-tP9j-64" parent="1">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint y="25" as="offset" />
-              <Array as="points">
-                <mxPoint x="1315" y="2157.5699999999997" />
-                <mxPoint x="1315" y="2157.5699999999997" />
               </Array>
             </mxGeometry>
           </mxCell>
