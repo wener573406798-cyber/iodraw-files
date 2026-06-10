@@ -258,7 +258,7 @@
           <mxGeometry x="10" width="75.84" height="54" as="geometry" />
         </mxCell>
         <UserObject label="" tags="Background" id="XbQVD_GEqfwizwg-tP9j-108">
-          <mxCell style="vsdxID=101;fillColor=#f8cecc;shape=stencil(nZBdDoMgEIRPs+/IxhNYew8TUTYiGKT+3F7IppE2jTF9m9n9Zh4GsJp1MymQYg7eDWqlNmjAB0hJVitPISrAGrDqnFe9dy/bsp+aRCY1uiU1bJwTKSHFzq5k+2TSkM3I8hO9IAvxd+s7+pO933pFRnGO0ZExvGX+/x4vnnh4rA8=);strokeColor=#b85450;strokeWidth=2;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxCell style="vsdxID=101;fillColor=none;shape=stencil(nZBdDoMgEIRPs+/IxhNYew8TUTYiGKT+3F7IppE2jTF9m9n9Zh4GsJp1MymQYg7eDWqlNmjAB0hJVitPISrAGrDqnFe9dy/bsp+aRCY1uiU1bJwTKSHFzq5k+2TSkM3I8hO9IAvxd+s7+pO933pFRnGO0ZExvGX+/x4vnnh4rA8=);strokeColor=#b85450;strokeWidth=2;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;gradientColor=default;" vertex="1" parent="1">
             <mxGeometry x="270" y="2071" width="90" height="70" as="geometry" />
           </mxCell>
         </UserObject>
