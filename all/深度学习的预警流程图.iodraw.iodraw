@@ -525,6 +525,17 @@
         <mxCell id="guUwc-oUVOWYPbuqVJgS-24" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;输入输出框&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1642" y="2444" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ONIRceby-wyVZGeQbiP3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XbQVD_GEqfwizwg-tP9j-41" target="XbQVD_GEqfwizwg-tP9j-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="889" y="2106" as="sourcePoint" />
+            <mxPoint x="972" y="2106" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="889" y="2143" />
+              <mxPoint x="931" y="2143" />
+              <mxPoint x="931" y="2106" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
