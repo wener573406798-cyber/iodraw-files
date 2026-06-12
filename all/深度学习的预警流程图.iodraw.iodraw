@@ -519,6 +519,9 @@
         <mxCell id="guUwc-oUVOWYPbuqVJgS-22" value="处理框" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="2838" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="guUwc-oUVOWYPbuqVJgS-23" value="判断框" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="2838" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
