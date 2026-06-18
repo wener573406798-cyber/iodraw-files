@@ -510,7 +510,7 @@
           <mxGeometry x="1658" y="2191" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="guUwc-oUVOWYPbuqVJgS-23" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;判断框&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1658" y="2289" width="80" height="40" as="geometry" />
+          <mxGeometry x="1634" y="2288.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="guUwc-oUVOWYPbuqVJgS-24" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;输入输出框&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1645" y="2383.5" width="120" height="40" as="geometry" />
