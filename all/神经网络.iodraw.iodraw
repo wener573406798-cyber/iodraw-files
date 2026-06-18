@@ -325,7 +325,7 @@
           <mxGeometry x="457" y="1533" width="189" height="106" as="geometry" />
         </mxCell>
         <mxCell id="EWEPECer2gHq8zKdL28G-133" value="&lt;div style=&quot;font-size: 14px; line-height: 210%;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;b1k：隐藏层偏置&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px; line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;b2k：输出层偏置&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="458" y="1577" width="125" height="58" as="geometry" />
+          <mxGeometry x="458" y="1602" width="125" height="58" as="geometry" />
         </mxCell>
         <mxCell id="0r0vuSLl-qcN3OkwRu3Y-1" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fillColor=#f8cecc;strokeColor=#F19C99;" parent="1" target="EWEPECer2gHq8zKdL28G-93" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
