@@ -124,7 +124,7 @@
             <mxPoint x="656" y="1142" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EWEPECer2gHq8zKdL28G-89" value="v32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EWEPECer2gHq8zKdL28G-49" vertex="1" connectable="0">
+        <mxCell id="EWEPECer2gHq8zKdL28G-89" value="v32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-30;" parent="EWEPECer2gHq8zKdL28G-49" vertex="1" connectable="0">
           <mxGeometry x="-0.709" y="-3" relative="1" as="geometry">
             <mxPoint x="7" y="1" as="offset" />
           </mxGeometry>
