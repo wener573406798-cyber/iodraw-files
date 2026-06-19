@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="f7c1b51b7adb" name="病害预警闭环">
-    <mxGraphModel dx="4000" dy="1491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="5000" dy="1491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,10 @@
           <mxGeometry width="1000" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="ell4" value="" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#B9BEC9;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontColor=#FFFFFF;fontStyle=1;editable=1;;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="860" height="860" as="geometry" />
+          <mxGeometry x="-45" y="875" width="860" height="860" as="geometry" />
         </mxCell>
         <mxCell id="ell5" value="" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#E7E7E7;strokeWidth=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontColor=#FFFFFF;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="60" width="820" height="820" as="geometry" />
+          <mxGeometry x="-1040" y="130" width="820" height="820" as="geometry" />
         </mxCell>
         <mxCell id="ell6" value="" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#EBCB8C;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontColor=#FFFFFF;fontStyle=1;dashed=1;dashPattern=8 8;;" parent="1" vertex="1">
           <mxGeometry x="310" y="310" width="340" height="340" as="geometry" />
@@ -196,7 +196,7 @@
             <mxPoint x="356" y="748" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="edge56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E53935;strokeWidth=3;endArrow=none;endFill=0;" parent="1" edge="1">
+        <mxCell id="edge56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E53935;strokeWidth=3;endArrow=none;endFill=0;" parent="1" edge="1" target="ell4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="768" as="sourcePoint" />
             <mxPoint x="350" y="782" as="targetPoint" />
