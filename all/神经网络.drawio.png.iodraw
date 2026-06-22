@@ -686,7 +686,7 @@
           <mxGeometry x="628" y="2595" width="446" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aWHTw1aax5LKiD8xApmq-126" value="$$\sum $$&lt;div&gt;hhh&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-144" y="2618" width="120" height="60" as="geometry" />
+          <mxGeometry x="-144" y="2618" width="120" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
