@@ -682,10 +682,7 @@
         <mxCell id="aWHTw1aax5LKiD8xApmq-114" value="&lt;font style=&quot;text-wrap-mode: wrap; font-size: 25px;&quot;&gt;f&lt;/font&gt;&lt;font style=&quot;text-wrap-mode: wrap; font-size: 15px;&quot;&gt;x&lt;/font&gt;&lt;font style=&quot;text-wrap-mode: wrap; font-size: 15px;&quot;&gt;(zj)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="663" y="2536" width="53" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="aWHTw1aax5LKiD8xApmq-115" value="&lt;font style=&quot;text-wrap-mode: wrap; font-size: 25px;&quot;&gt;g&lt;/font&gt;&lt;font style=&quot;text-wrap-mode: wrap; font-size: 15px;&quot;&gt;x&lt;/font&gt;&lt;font style=&quot;text-wrap-mode: wrap; font-size: 15px;&quot;&gt;(zk)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="710.75" y="2498" width="64" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="aWHTw1aax5LKiD8xApmq-124" value="" style="whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="aWHTw1aax5LKiD8xApmq-124" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="753" y="2483" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
