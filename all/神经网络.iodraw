@@ -274,40 +274,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EWEPECer2gHq8zKdL28G-118" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="130" y="1549" width="16" height="16" as="geometry" />
+          <mxGeometry x="195" y="1543.5" width="16" height="16" as="geometry" />
         </mxCell>
         <mxCell id="EWEPECer2gHq8zKdL28G-119" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="130" y="1577" width="16" height="16" as="geometry" />
+          <mxGeometry x="195" y="1571.5" width="16" height="16" as="geometry" />
         </mxCell>
         <mxCell id="EWEPECer2gHq8zKdL28G-120" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="130" y="1606" width="16" height="16" as="geometry" />
+          <mxGeometry x="195" y="1600.5" width="16" height="16" as="geometry" />
         </mxCell>
         <mxCell id="EWEPECer2gHq8zKdL28G-122" value="xi：输入层节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="147" y="1542.5" width="112" height="29" as="geometry" />
+          <mxGeometry x="212" y="1537" width="112" height="29" as="geometry" />
         </mxCell>
         <mxCell id="EWEPECer2gHq8zKdL28G-123" value="hj：隐藏层节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="148.5" y="1570.5" width="113" height="29" as="geometry" />
+          <mxGeometry x="213.5" y="1565" width="113" height="29" as="geometry" />
         </mxCell>
         <mxCell id="EWEPECer2gHq8zKdL28G-124" value="yk：输出层节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="147" y="1599.5" width="116" height="29" as="geometry" />
+          <mxGeometry x="212" y="1594" width="116" height="29" as="geometry" />
         </mxCell>
         <mxCell id="EWEPECer2gHq8zKdL28G-126" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="127" y="1642.47" as="sourcePoint" />
-            <mxPoint x="175" y="1642.47" as="targetPoint" />
+            <mxPoint x="192" y="1636.97" as="sourcePoint" />
+            <mxPoint x="240" y="1636.97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EWEPECer2gHq8zKdL28G-127" value="：权重连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="172" y="1628.5" width="88" height="29" as="geometry" />
+          <mxGeometry x="237" y="1623" width="88" height="29" as="geometry" />
         </mxCell>
         <mxCell id="EWEPECer2gHq8zKdL28G-129" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeColor=#F19C99;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="127" y="1671" as="sourcePoint" />
-            <mxPoint x="178" y="1671" as="targetPoint" />
+            <mxPoint x="192" y="1665.5" as="sourcePoint" />
+            <mxPoint x="243" y="1665.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EWEPECer2gHq8zKdL28G-130" value="：偏置连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="173.5" y="1657.5" width="88" height="29" as="geometry" />
+          <mxGeometry x="238.5" y="1652" width="88" height="29" as="geometry" />
         </mxCell>
         <mxCell id="EWEPECer2gHq8zKdL28G-131" value="wij：输入层到隐藏层的权重&lt;div style=&quot;font-size: 14px; line-height: 210%;&quot;&gt;&lt;div style=&quot;font-size: 14px; line-height: 210%;&quot;&gt;vjk：隐藏层到输出层的权重&lt;/div&gt;&lt;div style=&quot;font-size: 14px; line-height: 170%;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px; line-height: 170%;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="454" y="1542.5" width="189" height="106" as="geometry" />
