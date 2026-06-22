@@ -588,7 +588,7 @@
         <mxCell id="aWHTw1aax5LKiD8xApmq-73" value="：偏置连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="225.5" y="2606" width="88" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="aWHTw1aax5LKiD8xApmq-74" value="wij：输入层到隐藏层的权重&lt;div style=&quot;font-size: 14px; line-height: 210%;&quot;&gt;&lt;div style=&quot;font-size: 14px; line-height: 210%;&quot;&gt;vjk：隐藏层到输出层的权重&lt;/div&gt;&lt;div style=&quot;font-size: 14px; line-height: 170%;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px; line-height: 170%;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="aWHTw1aax5LKiD8xApmq-74" value="wij：输入层到隐藏层的权重&lt;div style=&quot;line-height: 210%; font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px; line-height: 210%;&quot;&gt;vjk：隐藏层到输出层的权重&lt;/div&gt;&lt;div style=&quot;font-size: 14px; line-height: 170%;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px; line-height: 170%;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="438" y="2497.5" width="189" height="106" as="geometry" />
         </mxCell>
         <mxCell id="aWHTw1aax5LKiD8xApmq-75" value="&lt;div style=&quot;font-size: 14px; line-height: 210%;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;b1k：隐藏层偏置&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px; line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;b2k：输出层偏置&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
@@ -683,7 +683,7 @@
           <mxGeometry x="438" y="2588" width="53" height="42" as="geometry" />
         </mxCell>
         <mxCell id="aWHTw1aax5LKiD8xApmq-115" value="&lt;font style=&quot;text-wrap-mode: wrap; font-size: 25px;&quot;&gt;g&lt;/font&gt;&lt;font style=&quot;text-wrap-mode: wrap; font-size: 15px;&quot;&gt;x&lt;/font&gt;&lt;font style=&quot;text-wrap-mode: wrap; font-size: 15px;&quot;&gt;(zk)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="485" y="2668" width="64" height="42" as="geometry" />
+          <mxGeometry x="434" y="2619" width="64" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
