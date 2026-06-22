@@ -400,11 +400,11 @@
         <mxCell id="XbQVD_GEqfwizwg-tP9j-186" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#cb2525;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1188" y="2288" width="30" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="XbQVD_GEqfwizwg-tP9j-187" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#cb2525;" parent="1" vertex="1">
-          <mxGeometry x="1229" y="2595" width="40" height="30" as="geometry" />
+        <mxCell id="XbQVD_GEqfwizwg-tP9j-187" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#cb2525;" parent="1" vertex="1">
+          <mxGeometry x="1234" y="2597" width="30" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="XbQVD_GEqfwizwg-tP9j-188" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1447" y="2596" width="32" height="29" as="geometry" />
+        <mxCell id="XbQVD_GEqfwizwg-tP9j-188" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="1448" y="2597" width="30" height="26" as="geometry" />
         </mxCell>
         <UserObject label="" tags="Background" id="XbQVD_GEqfwizwg-tP9j-191">
           <mxCell style="vsdxID=16;fillColor=#f5cccc;gradientColor=none;shape=stencil(nZBdDoMgEIRPs+/IxhNYew8TUTYiGKT+3F7IppE2jTF9m9n9Zh4GsJp1MymQYg7eDWqlNmjAB0hJVitPISrAGrDqnFe9dy/bsp+aRCY1uiU1bJwTKSHFzq5k+2TSkM3I8hO9IAvxd+s7+pO933pFRnGO0ZExvGX+/x4vnnh4rA8=);strokeColor=none;strokeWidth=2;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontSize=12;" parent="1" vertex="1">
