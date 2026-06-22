@@ -697,7 +697,7 @@
         <mxCell id="aWHTw1aax5LKiD8xApmq-115" value="&lt;font style=&quot;text-wrap-mode: wrap; font-size: 25px;&quot;&gt;g&lt;/font&gt;&lt;font style=&quot;text-wrap-mode: wrap; font-size: 15px;&quot;&gt;x&lt;/font&gt;&lt;font style=&quot;text-wrap-mode: wrap; font-size: 15px;&quot;&gt;(zk)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="485" y="2668" width="64" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="aWHTw1aax5LKiD8xApmq-116" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="aWHTw1aax5LKiD8xApmq-116" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="447" y="2608" width="16" height="16" as="geometry" />
         </mxCell>
       </root>
