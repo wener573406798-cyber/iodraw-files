@@ -684,7 +684,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aWHTw1aax5LKiD8xApmq-108" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;v32&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-30;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="491.7289127187237" y="1371.9225556197914" as="geometry" />
+          <mxGeometry x="516.9989127187237" y="2293.0025556197916" as="geometry">
+            <mxPoint x="3.186533479473214" y="36.48076211353316" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
