@@ -680,7 +680,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aWHTw1aax5LKiD8xApmq-114" value="&lt;font style=&quot;text-wrap-mode: wrap; font-size: 25px;&quot;&gt;f&lt;/font&gt;&lt;font style=&quot;text-wrap-mode: wrap; font-size: 15px;&quot;&gt;x&lt;/font&gt;&lt;font style=&quot;text-wrap-mode: wrap; font-size: 15px;&quot;&gt;(zj)：激活函数&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="626" y="2536" width="128" height="42" as="geometry" />
+          <mxGeometry x="656" y="2590" width="128" height="42" as="geometry" />
         </mxCell>
         <mxCell id="aWHTw1aax5LKiD8xApmq-115" value="&lt;font style=&quot;text-wrap-mode: wrap; font-size: 25px;&quot;&gt;g&lt;/font&gt;&lt;font style=&quot;text-wrap-mode: wrap; font-size: 15px;&quot;&gt;x&lt;/font&gt;&lt;font style=&quot;text-wrap-mode: wrap; font-size: 15px;&quot;&gt;(zk)：激活函数&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="623" y="2494" width="139" height="42" as="geometry" />
