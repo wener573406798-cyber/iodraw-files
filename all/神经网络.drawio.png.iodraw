@@ -683,7 +683,7 @@
           <mxGeometry x="622" y="2478" width="166" height="84" as="geometry" />
         </mxCell>
         <mxCell id="aWHTw1aax5LKiD8xApmq-125" value="$$\sum $$wij+b1j&lt;div&gt;$$\sum $$vjkhj+b2k&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="628" y="2595" width="446" height="60" as="geometry" />
+          <mxGeometry x="628" y="2595" width="446" height="174" as="geometry" />
         </mxCell>
         <mxCell id="aWHTw1aax5LKiD8xApmq-126" value="$$$$\sum $$$$" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-144" y="2618" width="265" height="107" as="geometry" />
