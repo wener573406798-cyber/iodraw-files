@@ -575,7 +575,7 @@
         </mxCell>
         <mxCell id="aWHTw1aax5LKiD8xApmq-72" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeColor=#F19C99;fontSize=14;entryX=-0.023;entryY=0.532;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="aWHTw1aax5LKiD8xApmq-73">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="179" y="2619.5" as="sourcePoint" />
+            <mxPoint x="972" y="2217" as="sourcePoint" />
             <mxPoint x="230" y="2619.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -583,7 +583,7 @@
           <mxGeometry x="1022" y="2202" width="88" height="29" as="geometry" />
         </mxCell>
         <mxCell id="aWHTw1aax5LKiD8xApmq-74" value="wij：输入层到隐藏层的权重&lt;div style=&quot;line-height: 210%; font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px; line-height: 210%;&quot;&gt;vjk：隐藏层到输出层的权重&lt;/div&gt;&lt;div style=&quot;font-size: 14px; line-height: 170%;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px; line-height: 170%;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="438" y="2497.5" width="189" height="106" as="geometry" />
+          <mxGeometry x="1005" y="2228" width="189" height="106" as="geometry" />
         </mxCell>
         <mxCell id="aWHTw1aax5LKiD8xApmq-75" value="&lt;div style=&quot;font-size: 14px; line-height: 210%;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;b1k：隐藏层偏置&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px; line-height: 120%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;b2k：输出层偏置&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="438" y="2540" width="125" height="58" as="geometry" />
