@@ -565,7 +565,7 @@
           <mxGeometry x="1008" y="2081.5" width="112" height="29" as="geometry" />
         </mxCell>
         <mxCell id="aWHTw1aax5LKiD8xApmq-68" value="hj：隐藏层节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="200.5" y="2519" width="113" height="29" as="geometry" />
+          <mxGeometry x="1008" y="2114" width="113" height="29" as="geometry" />
         </mxCell>
         <mxCell id="aWHTw1aax5LKiD8xApmq-69" value="yk：输出层节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="199" y="2548" width="116" height="29" as="geometry" />
