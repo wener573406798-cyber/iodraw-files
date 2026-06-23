@@ -403,7 +403,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aWHTw1aax5LKiD8xApmq-16" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;输入层&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;input layer&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="5" y="2408" width="87" height="48" as="geometry" />
+          <mxGeometry x="1.5" y="1995" width="87" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aWHTw1aax5LKiD8xApmq-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;隐藏层&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;hidden layer&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="328" y="2408" width="100" height="48" as="geometry" />
