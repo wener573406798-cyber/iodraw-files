@@ -570,6 +570,9 @@
         <mxCell id="aWHTw1aax5LKiD8xApmq-69" value="yk：输出层节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1008" y="2143" width="116" height="29" as="geometry" />
         </mxCell>
+        <mxCell id="CQTcfSbCTVZ2IlBn1lVy-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aWHTw1aax5LKiD8xApmq-71" target="aWHTw1aax5LKiD8xApmq-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aWHTw1aax5LKiD8xApmq-71" value="：权重连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1022" y="2173" width="88" height="29" as="geometry" />
         </mxCell>
@@ -690,8 +693,8 @@
         </mxCell>
         <mxCell id="CQTcfSbCTVZ2IlBn1lVy-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="951" y="2219" as="sourcePoint" />
-            <mxPoint x="1001" y="2169" as="targetPoint" />
+            <mxPoint x="951" y="2195" as="sourcePoint" />
+            <mxPoint x="1021" y="2188" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
