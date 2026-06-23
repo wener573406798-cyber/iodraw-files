@@ -562,7 +562,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aWHTw1aax5LKiD8xApmq-67" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;x&lt;/font&gt;i：输入层节点&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="977.5" y="2076.5" width="173" height="40" as="geometry" />
+          <mxGeometry x="984" y="2049" width="173" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aWHTw1aax5LKiD8xApmq-68" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;h&lt;/font&gt;j：隐藏层节点&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="978" y="2101" width="174" height="40" as="geometry" />
