@@ -719,8 +719,8 @@
         <mxCell id="CQTcfSbCTVZ2IlBn1lVy-22" value="原始输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="18" y="2437" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="CQTcfSbCTVZ2IlBn1lVy-23" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="336" y="2429" width="40" height="26" as="geometry" />
+        <mxCell id="CQTcfSbCTVZ2IlBn1lVy-23" value="特征提取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="323" y="2429" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
