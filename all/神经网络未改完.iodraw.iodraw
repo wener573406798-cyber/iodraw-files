@@ -697,9 +697,6 @@
         <mxCell id="CQTcfSbCTVZ2IlBn1lVy-6" value="输入" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-83" y="2529" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CQTcfSbCTVZ2IlBn1lVy-8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="523" y="2384" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
