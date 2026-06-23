@@ -689,7 +689,7 @@
             <mxPoint x="962.5" y="2237" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CQTcfSbCTVZ2IlBn1lVy-6" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;输入：[x1，]&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CQTcfSbCTVZ2IlBn1lVy-6" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;输入：[x1,x2,x3,···,xn]&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-194" y="2546" width="342" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CQTcfSbCTVZ2IlBn1lVy-10" value="&lt;font style=&quot;text-wrap-mode: nowrap; font-size: 19px;&quot;&gt;v&lt;/font&gt;&lt;font style=&quot;text-wrap-mode: nowrap;&quot;&gt;32&lt;/font&gt;" style="whiteSpace=wrap;html=1;rotation=-30;fillColor=none;strokeColor=none;" vertex="1" parent="1">
