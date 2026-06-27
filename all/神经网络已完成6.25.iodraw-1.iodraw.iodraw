@@ -830,9 +830,9 @@
         <mxCell id="wYOU37qboQ2pIc5fvfdf-60" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 23px;&quot;&gt;The weights from the hidden layer to the output layer&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700.5" y="2886" width="590" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wYOU37qboQ2pIc5fvfdf-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wYOU37qboQ2pIc5fvfdf-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="wYOU37qboQ2pIc5fvfdf-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="3080" as="sourcePoint" />
+            <mxPoint x="620" y="3020" as="sourcePoint" />
             <mxPoint x="650" y="3030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
