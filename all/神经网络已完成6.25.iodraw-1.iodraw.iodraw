@@ -716,8 +716,8 @@
         <mxCell id="CQTcfSbCTVZ2IlBn1lVy-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="811" y="2355" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CQTcfSbCTVZ2IlBn1lVy-22" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;原始输入&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2" y="2432" width="98" height="36" as="geometry" />
+        <mxCell id="CQTcfSbCTVZ2IlBn1lVy-22" value="&lt;font face=&quot;times new roman&quot;&gt;Original input&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="8" y="2437" width="86" height="26" as="geometry" />
         </mxCell>
         <mxCell id="CQTcfSbCTVZ2IlBn1lVy-23" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;特征提取&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="373" y="2432" width="98" height="36" as="geometry" />
