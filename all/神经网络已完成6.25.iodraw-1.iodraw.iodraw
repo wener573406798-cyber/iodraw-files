@@ -798,7 +798,7 @@
           <mxGeometry x="704" y="2803" width="24" height="36" as="geometry" />
         </mxCell>
         <mxCell id="wYOU37qboQ2pIc5fvfdf-44" value="&lt;font style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px; background-color: initial;&quot;&gt;Output&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px; background-color: initial;&quot;&gt;&amp;nbsp;layer bias&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="956" y="2730" width="160" height="40" as="geometry" />
+          <mxGeometry x="1430" y="2764" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wYOU37qboQ2pIc5fvfdf-45" value="&lt;font style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px;&quot;&gt;H&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px; background-color: initial;&quot;&gt;idden layer bias&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="734.75" y="2762" width="160" height="40" as="geometry" />
