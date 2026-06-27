@@ -405,8 +405,8 @@
             <mxPoint x="338" y="2363" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aWHTw1aax5LKiD8xApmq-16" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;输入层&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font face=&quot;times new roman&quot; style=&quot;font-size: 20px;&quot;&gt;input layer&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=times new roman;" parent="1" vertex="1">
-          <mxGeometry x="-6.5" y="1962" width="104" height="60" as="geometry" />
+        <mxCell id="aWHTw1aax5LKiD8xApmq-16" value="&lt;br&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font face=&quot;times new roman&quot; style=&quot;font-size: 20px;&quot;&gt;Input Layer&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=times new roman;" parent="1" vertex="1">
+          <mxGeometry x="-10.5" y="1967" width="112" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aWHTw1aax5LKiD8xApmq-17" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;隐藏层&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font face=&quot;times new roman&quot; style=&quot;font-size: 20px;&quot;&gt;hidden layer&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="312" y="1962" width="117" height="61" as="geometry" />
