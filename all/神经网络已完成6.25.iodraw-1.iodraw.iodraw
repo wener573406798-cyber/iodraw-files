@@ -722,8 +722,8 @@
         <mxCell id="CQTcfSbCTVZ2IlBn1lVy-23" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Feature Extraction&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="323" y="2432" width="198" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="CQTcfSbCTVZ2IlBn1lVy-24" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;输出结果&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="774.75" y="2432" width="98" height="36" as="geometry" />
+        <mxCell id="CQTcfSbCTVZ2IlBn1lVy-24" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Output Result&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="749.75" y="2432" width="148" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
