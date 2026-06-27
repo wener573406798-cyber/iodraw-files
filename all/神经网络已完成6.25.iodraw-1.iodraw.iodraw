@@ -828,7 +828,7 @@
           <mxGeometry x="704" y="3044" width="24" height="36" as="geometry" />
         </mxCell>
         <mxCell id="wYOU37qboQ2pIc5fvfdf-60" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 23px;&quot;&gt;The weights from the hidden layer to the output layer&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="2635" width="590" height="30" as="geometry" />
+          <mxGeometry x="701" y="2883" width="590" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
